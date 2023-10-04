@@ -20,7 +20,7 @@
   - **Purpose**: Identify factors behind low profit ratio in order to boost profits
   - In this dashboard, I used a Tableau dataset containing sample sales data from 2018 to 2021. Though the sample dataset provides a wider overview of sales data, I saw an opportunity to strategically visualize clear, actionable insights to my fictional audience of sales executives. The dashboard allows my audience to immediately pinpoint the geographical, categorical, and seasonal factors that are leading to profit loss — providing the guided insight that allows them to impact change on their team.
 
-- **[World Happiness Rankings Dashboard](https://github.com/jothirammohan/SQL-Portfolio/blob/9a5a3cf4fd00fbbd2579ace5121fd280f18eef82/Data%20Analysis%20on%20Customer%20%26%20Orders.txt)**
+- **[World Happiness Rankings Dashboard](https://public.tableau.com/views/WorldHappinessDashboard_16964334147960/WorldHappinessReport?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
   - **Data**: World Happiness Report
   - **Audience**: Anyone interested in geography & culture
   - **Purpose**: Explore and interact with visualized world happiness data
