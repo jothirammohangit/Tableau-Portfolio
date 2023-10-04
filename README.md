@@ -14,13 +14,13 @@
 
 <h2>👨‍💻 Highlighted Projects:</h2>
 
-- **[Super Market Profit Dashboard](https://github.com/jothirammohan/SQL-Portfolio/blob/eee1bdfc8ad5d34c6a742f042f5350c231bae445/Data%20Analysis%20on%20Digital%20Media%20Store.txt)**:
+- **[Super Market Profit Dashboard](https://public.tableau.com/views/SuperMarketProfitDashboard/SuperstoreProfitDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
   - **Data**: Tableau sample data
   - **Audience**: Sales executives
   - **Purpose**: Identify factors behind low profit ratio in order to boost profits
   - In this dashboard, I used a Tableau dataset containing sample sales data from 2018 to 2021. Though the sample dataset provides a wider overview of sales data, I saw an opportunity to strategically visualize clear, actionable insights to my fictional audience of sales executives. The dashboard allows my audience to immediately pinpoint the geographical, categorical, and seasonal factors that are leading to profit loss — providing the guided insight that allows them to impact change on their team.
 
-- **[World Happiness Rankings Dashboard](https://github.com/jothirammohan/SQL-Portfolio/blob/9a5a3cf4fd00fbbd2579ace5121fd280f18eef82/Data%20Analysis%20on%20Customer%20%26%20Orders.txt)**:
+- **[World Happiness Rankings Dashboard](https://github.com/jothirammohan/SQL-Portfolio/blob/9a5a3cf4fd00fbbd2579ace5121fd280f18eef82/Data%20Analysis%20on%20Customer%20%26%20Orders.txt)**
   - **Data**: World Happiness Report
   - **Audience**: Anyone interested in geography & culture
   - **Purpose**: Explore and interact with visualized world happiness data
